@@ -54,6 +54,7 @@ npm start
 See [DOKPLOY_DEPLOYMENT.md](../DOKPLOY_DEPLOYMENT.md) for detailed instructions on deploying to Dokploy.
 
 **Quick Start:**
+
 1. Create application in Dokploy dashboard
 2. Connect Git repository
 3. Set root directory to `landing`
@@ -75,4 +76,3 @@ The Dockerfile uses multi-stage builds for optimal image size and performance.
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Dokploy Documentation](https://dokploy.com/docs)
-

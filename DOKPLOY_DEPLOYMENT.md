@@ -23,7 +23,7 @@ Dokploy can automatically detect and deploy Next.js applications.
    - Click "Create Application"
    - Choose "Git" as the source
    - Connect your repository: `homomorfism/fuck-spanish`
-   - Select the branch: `copilot/add-landing-page-directory` (or your main branch)
+   - Select the branch: `main` (or your production branch)
 
 3. **Configure Build Settings**
    - **Root Directory**: `landing`
