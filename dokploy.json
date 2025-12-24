@@ -1,0 +1,30 @@
+{
+  "name": "fucklanguage-landing",
+  "type": "application",
+  "source": {
+    "type": "git",
+    "repository": "homomorfism/fuck-spanish",
+    "branch": "main"
+  },
+  "build": {
+    "type": "nixpacks",
+    "rootDirectory": "landing",
+    "buildCommand": "npm run build",
+    "startCommand": "npm start"
+  },
+  "deploy": {
+    "port": 3000,
+    "healthCheck": {
+      "path": "/",
+      "interval": 30,
+      "timeout": 10
+    }
+  },
+  "environment": {
+    "NODE_ENV": "production"
+  },
+  "resources": {
+    "memory": "512Mi",
+    "cpu": "500m"
+  }
+}

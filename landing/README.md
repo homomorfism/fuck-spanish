@@ -47,7 +47,32 @@ npm start
 - `npm run format` - Format code with Prettier
 - `npm run format:check` - Check code formatting
 
+## Deployment
+
+### Dokploy Deployment
+
+See [DOKPLOY_DEPLOYMENT.md](../DOKPLOY_DEPLOYMENT.md) for detailed instructions on deploying to Dokploy.
+
+**Quick Start:**
+1. Create application in Dokploy dashboard
+2. Connect Git repository
+3. Set root directory to `landing`
+4. Deploy
+
+### Docker Deployment
+
+Build and run with Docker:
+
+```bash
+docker build -t fucklanguage-landing .
+docker run -p 3000:3000 fucklanguage-landing
+```
+
+The Dockerfile uses multi-stage builds for optimal image size and performance.
+
 ## Learn More
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Dokploy Documentation](https://dokploy.com/docs)
+
