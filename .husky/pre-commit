@@ -1,0 +1,40 @@
+#!/bin/sh
+# Pre-commit hook to check landing directory
+
+echo "🔍 Checking landing directory..."
+
+# Check if there are any changes in the landing directory
+if git diff --cached --name-only | grep -q "^landing/"; then
+  echo "📝 Changes detected in landing directory"
+  
+  # Change to landing directory
+  cd landing || exit 1
+  
+  # Run lint check
+  echo "🔎 Running ESLint..."
+  npm run lint || {
+    echo "❌ ESLint check failed. Please fix the errors before committing."
+    exit 1
+  }
+  
+  # Run Prettier check
+  echo "✨ Checking code formatting..."
+  npm run format:check || {
+    echo "❌ Prettier check failed. Run 'npm run format' in landing/ directory to fix formatting."
+    exit 1
+  }
+  
+  # Run TypeScript check
+  echo "🔧 Checking TypeScript..."
+  npx tsc --noEmit || {
+    echo "❌ TypeScript check failed. Please fix the errors before committing."
+    exit 1
+  }
+  
+  echo "✅ All checks passed for landing directory!"
+else
+  echo "ℹ️  No changes in landing directory, skipping checks"
+fi
+
+exit 0
+
