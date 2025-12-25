@@ -5,7 +5,7 @@ export default function Home() {
         <div className="flex min-h-[80vh] flex-col items-center justify-center text-center">
           {/* Main Heading */}
           <h1 className="mb-8 text-5xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl lg:text-7xl">
-            <span className="block">FuckLanguage</span>
+            <span className="block">FuckLanguages</span>
             <span className="block text-blue-600 dark:text-blue-400">
               is best application
             </span>
