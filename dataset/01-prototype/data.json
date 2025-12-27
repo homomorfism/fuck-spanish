@@ -1,0 +1,970 @@
+[
+  {
+    "category_list_en": "Home",
+    "word_es": "la nevera",
+    "translation_en": "fridge",
+    "sentence_1": "La leche está en la nevera.",
+    "sentence_2": "¿Puedes meter esto en la nevera, por favor?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "la cocina",
+    "translation_en": "kitchen",
+    "sentence_1": "Estoy en la cocina preparando el desayuno.",
+    "sentence_2": "La cocina huele a café.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "el salón",
+    "translation_en": "living room",
+    "sentence_1": "Nos vemos en el salón.",
+    "sentence_2": "Dejé las llaves en el salón.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "la cama",
+    "translation_en": "bed",
+    "sentence_1": "Me voy a la cama temprano.",
+    "sentence_2": "Hoy no quiero salir de la cama.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "la lámpara",
+    "translation_en": "lamp",
+    "sentence_1": "Enciende la lámpara, por favor.",
+    "sentence_2": "La lámpara del dormitorio no funciona.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "la puerta",
+    "translation_en": "door, gate",
+    "sentence_1": "Cierra la puerta cuando salgas.",
+    "sentence_2": "Nos vemos en la puerta del metro.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "arreglar",
+    "translation_en": "to fix, to arrange",
+    "sentence_1": "Tengo que arreglar la cerradura.",
+    "sentence_2": "¿Arreglamos para vernos mañana?",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "limpiar",
+    "translation_en": "to clean",
+    "sentence_1": "Voy a limpiar la mesa.",
+    "sentence_2": "Tenemos que limpiar la casa antes de que lleguen.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Home",
+    "word_es": "ordenar",
+    "translation_en": "to tidy up, to order",
+    "sentence_1": "Necesito ordenar mi habitación.",
+    "sentence_2": "Voy a ordenar comida por la app.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "el desayuno",
+    "translation_en": "breakfast",
+    "sentence_1": "¿Ya tomaste el desayuno?",
+    "sentence_2": "Hoy el desayuno es café y tostadas.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la cena",
+    "translation_en": "dinner",
+    "sentence_1": "¿Qué hay para la cena?",
+    "sentence_2": "Cenamos en casa casi siempre.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la receta",
+    "translation_en": "recipe, prescription",
+    "sentence_1": "Esta receta de pasta es fácil.",
+    "sentence_2": "Necesito una receta para ese medicamento.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "hervir",
+    "translation_en": "to boil",
+    "sentence_1": "Pon a hervir el agua.",
+    "sentence_2": "Deja hervir la sopa diez minutos.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "freír",
+    "translation_en": "to fry",
+    "sentence_1": "No me gusta freír en casa, huele mucho.",
+    "sentence_2": "Voy a freír unas patatas.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la sartén",
+    "translation_en": "frying pan",
+    "sentence_1": "Calienta la sartén antes de cocinar.",
+    "sentence_2": "Esa sartén está vieja, se pega todo.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la sal",
+    "translation_en": "salt",
+    "sentence_1": "Pásame la sal, por favor.",
+    "sentence_2": "A esta sopa le falta sal.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "el azúcar",
+    "translation_en": "sugar",
+    "sentence_1": "¿Quieres azúcar en el café?",
+    "sentence_2": "Estoy tratando de comer menos azúcar.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la cuchara",
+    "translation_en": "spoon",
+    "sentence_1": "Necesito una cuchara.",
+    "sentence_2": "Me tomé la sopa con cuchara.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Food & Cooking",
+    "word_es": "la cuenta",
+    "translation_en": "bill, account",
+    "sentence_1": "¿Nos trae la cuenta, por favor?",
+    "sentence_2": "Tengo que pagar la cuenta del teléfono.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "la cita",
+    "translation_en": "appointment",
+    "sentence_1": "Tengo una cita con el médico.",
+    "sentence_2": "¿Puedes adelantar la cita a esta tarde?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "la farmacia",
+    "translation_en": "pharmacy",
+    "sentence_1": "Voy a la farmacia a por vitaminas.",
+    "sentence_2": "La farmacia de aquí abre hasta tarde.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "la fiebre",
+    "translation_en": "fever",
+    "sentence_1": "Tengo fiebre desde anoche.",
+    "sentence_2": "Si te sube la fiebre, llama al médico.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "toser",
+    "translation_en": "to cough",
+    "sentence_1": "No puedo parar de toser.",
+    "sentence_2": "Empecé a toser por el humo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "dolor",
+    "translation_en": "pain",
+    "sentence_1": "Tengo dolor de cabeza.",
+    "sentence_2": "El dolor se fue después de descansar.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "la alergia",
+    "translation_en": "allergy",
+    "sentence_1": "Tengo alergia al polen.",
+    "sentence_2": "Me dio una alergia rara por algo que comí.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "la pastilla",
+    "translation_en": "pill",
+    "sentence_1": "Tómate una pastilla después de comer.",
+    "sentence_2": "Se me olvidó la pastilla de hoy.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Doctor & Health",
+    "word_es": "mejorar",
+    "translation_en": "to improve, to get better",
+    "sentence_1": "Estoy mejorando poco a poco.",
+    "sentence_2": "Con este plan vas a mejorar tu español.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "el jefe",
+    "translation_en": "boss",
+    "sentence_1": "Mi jefe llega a las nueve.",
+    "sentence_2": "El jefe me pidió el informe hoy.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "la reunión",
+    "translation_en": "meeting",
+    "sentence_1": "Tengo una reunión a las tres.",
+    "sentence_2": "La reunión se canceló a última hora.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "el turno",
+    "translation_en": "shift",
+    "sentence_1": "Trabajo en el turno de noche.",
+    "sentence_2": "¿Puedes cambiarme el turno del viernes?",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "entregar",
+    "translation_en": "to deliver, to hand in",
+    "sentence_1": "Tengo que entregar este proyecto hoy.",
+    "sentence_2": "El repartidor va a entregar el paquete mañana.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "el horario",
+    "translation_en": "schedule",
+    "sentence_1": "¿Cuál es tu horario esta semana?",
+    "sentence_2": "Mi horario cambió y ahora salgo más tarde.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "el sueldo",
+    "translation_en": "salary",
+    "sentence_1": "Me subieron el sueldo este año.",
+    "sentence_2": "El sueldo no me alcanza para todo.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Professions & Work",
+    "word_es": "ascender",
+    "translation_en": "to get promoted",
+    "sentence_1": "Mi compañera ascendió a jefa de equipo.",
+    "sentence_2": "Quiero ascender, pero necesito más experiencia.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "el precio",
+    "translation_en": "price",
+    "sentence_1": "¿Cuál es el precio de esto?",
+    "sentence_2": "El precio subió bastante este mes.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "barato",
+    "translation_en": "cheap",
+    "sentence_1": "Este sitio es barato y está bien.",
+    "sentence_2": "No siempre lo barato sale bueno.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "caro",
+    "translation_en": "expensive",
+    "sentence_1": "Ese abrigo es muy caro.",
+    "sentence_2": "Salir a comer aquí es caro, pero vale la pena.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "devolver",
+    "translation_en": "to return",
+    "sentence_1": "Quiero devolver esta camiseta.",
+    "sentence_2": "Si no te queda bien, la puedes devolver.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "la caja",
+    "translation_en": "cash register, box",
+    "sentence_1": "Paga en la caja, por favor.",
+    "sentence_2": "Guarda los documentos en la caja.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "ahorrar",
+    "translation_en": "to save",
+    "sentence_1": "Estoy intentando ahorrar para un viaje.",
+    "sentence_2": "Si compras menos, ahorras más.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Shopping & Money",
+    "word_es": "la rebaja",
+    "translation_en": "discount, sale",
+    "sentence_1": "Aproveché la rebaja y compré zapatos.",
+    "sentence_2": "En enero siempre hay rebajas.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "el billete",
+    "translation_en": "ticket",
+    "sentence_1": "Compré el billete de tren online.",
+    "sentence_2": "¿Tienes el billete a mano?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "la maleta",
+    "translation_en": "suitcase",
+    "sentence_1": "Mi maleta pesa demasiado.",
+    "sentence_2": "Se me olvidó la maleta en el taxi.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "el pasaporte",
+    "translation_en": "passport",
+    "sentence_1": "No encuentro mi pasaporte.",
+    "sentence_2": "Te piden el pasaporte en la frontera.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "el vuelo",
+    "translation_en": "flight",
+    "sentence_1": "Nuestro vuelo sale a las seis.",
+    "sentence_2": "Se retrasó el vuelo por el tiempo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "la puerta",
+    "translation_en": "gate, door",
+    "sentence_1": "El avión sale por la puerta 12.",
+    "sentence_2": "La puerta del hotel se abre con tarjeta.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "reservar",
+    "translation_en": "to book, to reserve",
+    "sentence_1": "Voy a reservar una habitación.",
+    "sentence_2": "Reservé una mesa para dos.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Travel",
+    "word_es": "perder",
+    "translation_en": "to lose, to miss",
+    "sentence_1": "No quiero perder el tren.",
+    "sentence_2": "Perdí mis llaves otra vez.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "llover",
+    "translation_en": "to rain",
+    "sentence_1": "Parece que va a llover.",
+    "sentence_2": "Si llueve, nos quedamos en casa.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "nublado",
+    "translation_en": "cloudy",
+    "sentence_1": "Hoy está nublado.",
+    "sentence_2": "Está nublado, pero no hace frío.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "hace calor",
+    "translation_en": "it’s hot",
+    "sentence_1": "Hoy hace calor, vamos a la playa.",
+    "sentence_2": "En agosto hace calor casi todos los días.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "hace frío",
+    "translation_en": "it’s cold",
+    "sentence_1": "Hace frío, ponte una chaqueta.",
+    "sentence_2": "En mi ciudad hace frío por la noche.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "el viento",
+    "translation_en": "wind",
+    "sentence_1": "Hoy hace mucho viento.",
+    "sentence_2": "El viento me despeinó todo el pelo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Weather & Nature",
+    "word_es": "la tormenta",
+    "translation_en": "storm",
+    "sentence_1": "Parece que viene una tormenta.",
+    "sentence_2": "La tormenta cortó la luz en el barrio.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "la esquina",
+    "translation_en": "corner",
+    "sentence_1": "La farmacia está en la esquina.",
+    "sentence_2": "Te espero en la esquina de siempre.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "cruzar",
+    "translation_en": "to cross",
+    "sentence_1": "Tienes que cruzar la calle aquí.",
+    "sentence_2": "Cruzamos el puente y ya llegamos.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "cerca",
+    "translation_en": "near, close",
+    "sentence_1": "Está cerca de mi casa.",
+    "sentence_2": "Ven más cerca, que no te oigo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "lejos",
+    "translation_en": "far",
+    "sentence_1": "Me queda lejos el trabajo.",
+    "sentence_2": "No vayas tan lejos, espera aquí.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "la parada",
+    "translation_en": "stop (bus/train)",
+    "sentence_1": "Bájate en la próxima parada.",
+    "sentence_2": "La parada del bus está justo allí.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "City & Directions",
+    "word_es": "el barrio",
+    "translation_en": "neighborhood",
+    "sentence_1": "Me gusta mucho este barrio.",
+    "sentence_2": "En mi barrio hay un parque muy bonito.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "School & Learning",
+    "word_es": "aprender",
+    "translation_en": "to learn",
+    "sentence_1": "Estoy aprendiendo español.",
+    "sentence_2": "Aprendí mucho viendo series en español.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "School & Learning",
+    "word_es": "practicar",
+    "translation_en": "to practice",
+    "sentence_1": "Quiero practicar contigo.",
+    "sentence_2": "Practico todos los días diez minutos.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "School & Learning",
+    "word_es": "la tarea",
+    "translation_en": "homework, task",
+    "sentence_1": "Tengo mucha tarea hoy.",
+    "sentence_2": "Mi tarea en el trabajo es revisar datos.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "School & Learning",
+    "word_es": "el examen",
+    "translation_en": "exam",
+    "sentence_1": "Mañana tengo un examen.",
+    "sentence_2": "Estudié todo el fin de semana para el examen.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "School & Learning",
+    "word_es": "entender",
+    "translation_en": "to understand",
+    "sentence_1": "No entiendo esta frase.",
+    "sentence_2": "Ahora sí entiendo lo que quieres decir.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Technology",
+    "word_es": "el móvil",
+    "translation_en": "mobile phone",
+    "sentence_1": "No tengo batería en el móvil.",
+    "sentence_2": "Se me cayó el móvil y se rompió la pantalla.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Technology",
+    "word_es": "la contraseña",
+    "translation_en": "password",
+    "sentence_1": "Olvidé mi contraseña.",
+    "sentence_2": "Cambia la contraseña por seguridad.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Technology",
+    "word_es": "el cargador",
+    "translation_en": "charger",
+    "sentence_1": "¿Tienes un cargador?",
+    "sentence_2": "Me dejé el cargador en la oficina.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Technology",
+    "word_es": "la aplicación",
+    "translation_en": "app, application",
+    "sentence_1": "Esta aplicación es muy útil.",
+    "sentence_2": "La aplicación se cerró de repente.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Technology",
+    "word_es": "actualizar",
+    "translation_en": "to update",
+    "sentence_1": "Tengo que actualizar el sistema.",
+    "sentence_2": "Actualiza la app y se arregla el error.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Social & Relationships",
+    "word_es": "quedar",
+    "translation_en": "to meet, to arrange",
+    "sentence_1": "¿Quedamos el sábado?",
+    "sentence_2": "Quedamos a las ocho en la plaza.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Social & Relationships",
+    "word_es": "la cita",
+    "translation_en": "date, appointment",
+    "sentence_1": "Tengo una cita con alguien especial.",
+    "sentence_2": "La cita con el dentista es mañana.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Social & Relationships",
+    "word_es": "abrazar",
+    "translation_en": "to hug",
+    "sentence_1": "Ven aquí, déjame abrazarte.",
+    "sentence_2": "Nos abrazamos al despedirnos.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Social & Relationships",
+    "word_es": "echar de menos",
+    "translation_en": "to miss (someone)",
+    "sentence_1": "Te echo de menos.",
+    "sentence_2": "Echo de menos mi ciudad cuando viajo.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Emotions & Personality",
+    "word_es": "estar cansado",
+    "translation_en": "to be tired",
+    "sentence_1": "Estoy cansado, me voy a dormir.",
+    "sentence_2": "Estoy cansado de esperar.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Emotions & Personality",
+    "word_es": "estar contento",
+    "translation_en": "to be happy",
+    "sentence_1": "Estoy contento con mi progreso.",
+    "sentence_2": "Me pongo contento cuando te veo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Emotions & Personality",
+    "word_es": "estar preocupado",
+    "translation_en": "to be worried",
+    "sentence_1": "Estoy preocupado por mi familia.",
+    "sentence_2": "No te preocupes, todo va a salir bien.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Emotions & Personality",
+    "word_es": "tener vergüenza",
+    "translation_en": "to be embarrassed, to feel shame",
+    "sentence_1": "Me da vergüenza hablar en público.",
+    "sentence_2": "No tengas vergüenza, pregunta sin miedo.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Free time",
+    "word_es": "salir",
+    "translation_en": "to go out",
+    "sentence_1": "¿Te apetece salir esta noche?",
+    "sentence_2": "Hoy no salgo, me quedo en casa.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Free time",
+    "word_es": "descansar",
+    "translation_en": "to rest",
+    "sentence_1": "Necesito descansar un rato.",
+    "sentence_2": "Descansa, mañana será un día largo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Free time",
+    "word_es": "la película",
+    "translation_en": "movie, film",
+    "sentence_1": "¿Vemos una película esta noche?",
+    "sentence_2": "La película me hizo llorar.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Free time",
+    "word_es": "el concierto",
+    "translation_en": "concert",
+    "sentence_1": "Compré entradas para el concierto.",
+    "sentence_2": "El concierto fue increíble, cantamos todos.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Free time",
+    "word_es": "la entrada",
+    "translation_en": "ticket, entrance",
+    "sentence_1": "¿Cuánto cuesta la entrada?",
+    "sentence_2": "La entrada del edificio está al fondo.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Daily routine",
+    "word_es": "despertarse",
+    "translation_en": "to wake up",
+    "sentence_1": "Me despierto a las siete.",
+    "sentence_2": "Hoy me desperté con mucha energía.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Daily routine",
+    "word_es": "ducharse",
+    "translation_en": "to take a shower",
+    "sentence_1": "Me ducho antes de ir al trabajo.",
+    "sentence_2": "¿Te has duchado ya?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Daily routine",
+    "word_es": "vestirse",
+    "translation_en": "to get dressed",
+    "sentence_1": "Me visto rápido y salgo.",
+    "sentence_2": "No sé qué ponerme para la fiesta.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Daily routine",
+    "word_es": "olvidar",
+    "translation_en": "to forget",
+    "sentence_1": "Olvidé mi cartera en casa.",
+    "sentence_2": "No lo olvides: llámame cuando llegues.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Daily routine",
+    "word_es": "llegar",
+    "translation_en": "to arrive",
+    "sentence_1": "Llego en diez minutos.",
+    "sentence_2": "Cuando llegues, me mandas un mensaje.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Restaurant & Café",
+    "word_es": "pedir",
+    "translation_en": "to order, to ask for",
+    "sentence_1": "Voy a pedir una hamburguesa.",
+    "sentence_2": "¿Podemos pedir la cuenta?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Restaurant & Café",
+    "word_es": "recomendar",
+    "translation_en": "to recommend",
+    "sentence_1": "¿Me recomiendas algo sin carne?",
+    "sentence_2": "Te recomiendo este sitio, se come muy bien.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Restaurant & Café",
+    "word_es": "la propina",
+    "translation_en": "tip",
+    "sentence_1": "Dejamos propina porque nos atendieron bien.",
+    "sentence_2": "¿Aquí se deja propina o no?",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Restaurant & Café",
+    "word_es": "el menú",
+    "translation_en": "menu",
+    "sentence_1": "¿Me trae el menú, por favor?",
+    "sentence_2": "Hoy el menú del día incluye sopa y pollo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Emergency",
+    "word_es": "ayuda",
+    "translation_en": "help",
+    "sentence_1": "¡Ayuda, por favor!",
+    "sentence_2": "¿Puedes ayudarme con esto un momento?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Emergency",
+    "word_es": "perdido",
+    "translation_en": "lost",
+    "sentence_1": "Estoy perdido, ¿dónde está la estación?",
+    "sentence_2": "Me siento perdido con tanto cambio.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Emergency",
+    "word_es": "robar",
+    "translation_en": "to steal, to rob",
+    "sentence_1": "Me robaron el móvil en el metro.",
+    "sentence_2": "No dejes la mochila sola, te la pueden robar.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Emergency",
+    "word_es": "la policía",
+    "translation_en": "police",
+    "sentence_1": "Voy a llamar a la policía.",
+    "sentence_2": "La policía llegó rápido.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Emergency",
+    "word_es": "urgente",
+    "translation_en": "urgent",
+    "sentence_1": "Es urgente, necesito ayuda ahora.",
+    "sentence_2": "Te mando un mensaje urgente en cuanto sepa algo.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Money & Payments",
+    "word_es": "pagar",
+    "translation_en": "to pay",
+    "sentence_1": "¿Puedo pagar con tarjeta?",
+    "sentence_2": "Te pago mañana, lo prometo.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Money & Payments",
+    "word_es": "la tarjeta",
+    "translation_en": "card",
+    "sentence_1": "Mi tarjeta no funciona.",
+    "sentence_2": "Pago con tarjeta casi siempre.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Money & Payments",
+    "word_es": "el efectivo",
+    "translation_en": "cash",
+    "sentence_1": "¿Aceptan efectivo?",
+    "sentence_2": "No llevo efectivo, solo tarjeta.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Money & Payments",
+    "word_es": "la factura",
+    "translation_en": "invoice, bill",
+    "sentence_1": "Necesito la factura, por favor.",
+    "sentence_2": "La factura de la luz llegó hoy.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Conversation",
+    "word_es": "claro",
+    "translation_en": "of course, clear",
+    "sentence_1": "Claro, no hay problema.",
+    "sentence_2": "No me queda claro lo que dijiste.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Conversation",
+    "word_es": "igual",
+    "translation_en": "same, anyway",
+    "sentence_1": "Me da igual, tú decides.",
+    "sentence_2": "Somos iguales, los dos somos tercos.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Conversation",
+    "word_es": "la verdad",
+    "translation_en": "the truth, honestly",
+    "sentence_1": "La verdad, no tengo ganas hoy.",
+    "sentence_2": "Dime la verdad, ¿qué pasó?",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Conversation",
+    "word_es": "ni idea",
+    "translation_en": "no idea",
+    "sentence_1": "Ni idea, pregúntale a él.",
+    "sentence_2": "No tengo ni idea de dónde lo dejé.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Time & Scheduling",
+    "word_es": "ahora",
+    "translation_en": "now",
+    "sentence_1": "Ahora no puedo hablar.",
+    "sentence_2": "Hazlo ahora, así te lo quitas de encima.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Time & Scheduling",
+    "word_es": "luego",
+    "translation_en": "later, then",
+    "sentence_1": "Luego te llamo.",
+    "sentence_2": "Primero comemos y luego salimos.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Time & Scheduling",
+    "word_es": "todavía",
+    "translation_en": "still, yet",
+    "sentence_1": "Todavía no he comido.",
+    "sentence_2": "¿Todavía estás en la oficina?",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Time & Scheduling",
+    "word_es": "ya",
+    "translation_en": "already, now",
+    "sentence_1": "Ya llegué.",
+    "sentence_2": "¿Ya terminaste?",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Time & Scheduling",
+    "word_es": "apenas",
+    "translation_en": "barely, just",
+    "sentence_1": "Apenas tengo tiempo hoy.",
+    "sentence_2": "Apenas llegué y ya me llaman.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Shopping",
+    "word_es": "probarse",
+    "translation_en": "to try on",
+    "sentence_1": "Me voy a probar esta chaqueta.",
+    "sentence_2": "¿Puedo probármelo en el probador?",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Shopping",
+    "word_es": "la talla",
+    "translation_en": "size",
+    "sentence_1": "¿Qué talla necesitas?",
+    "sentence_2": "Esta talla me queda grande.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Shopping",
+    "word_es": "el cambio",
+    "translation_en": "change, exchange",
+    "sentence_1": "¿Tiene cambio de veinte?",
+    "sentence_2": "Quiero hacer un cambio porque está roto.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Work & Office",
+    "word_es": "el informe",
+    "translation_en": "report",
+    "sentence_1": "Te mando el informe esta tarde.",
+    "sentence_2": "El informe salió mejor de lo esperado.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Work & Office",
+    "word_es": "la fecha límite",
+    "translation_en": "deadline",
+    "sentence_1": "La fecha límite es el viernes.",
+    "sentence_2": "No llego a la fecha límite sin ayuda.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Work & Office",
+    "word_es": "el descanso",
+    "translation_en": "break, rest",
+    "sentence_1": "Tomemos un descanso de cinco minutos.",
+    "sentence_2": "El descanso me vino genial.",
+    "level": "intermediate"
+  },
+  {
+    "category_list_en": "Work & Office",
+    "word_es": "la entrevista",
+    "translation_en": "interview",
+    "sentence_1": "Tengo una entrevista mañana.",
+    "sentence_2": "La entrevista fue por videollamada.",
+    "level": "advanced"
+  },
+  {
+    "category_list_en": "Travel & Transport",
+    "word_es": "la estación",
+    "translation_en": "station",
+    "sentence_1": "Bájate en la estación central.",
+    "sentence_2": "La estación está llena de gente hoy.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel & Transport",
+    "word_es": "el metro",
+    "translation_en": "subway, metro",
+    "sentence_1": "Voy en metro al trabajo.",
+    "sentence_2": "El metro va lleno a esta hora.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel & Transport",
+    "word_es": "el autobús",
+    "translation_en": "bus",
+    "sentence_1": "¿Qué autobús va al centro?",
+    "sentence_2": "Perdí el autobús por un minuto.",
+    "level": "beginner"
+  },
+  {
+    "category_list_en": "Travel & Transport",
+    "word_es": "el asiento",
+    "translation_en": "seat",
+    "sentence_1": "¿Está libre este asiento?",
+    "sentence_2": "Me tocó un asiento junto a la ventana.",
+    "level": "beginner"
+  }
+]
